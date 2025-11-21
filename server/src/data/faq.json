@@ -1,0 +1,38 @@
+[
+  {
+    "q": "What documents are needed for road transport in India?",
+    "a": "Typically LR (Lorry Receipt/Bilty), eWay bill if goods value/exemption rules apply, invoice/challan, and ID of consignor/consignee. Our team helps generate LR and guide on eWay bill thresholds."
+  },
+  {
+    "q": "How is road freight pricing calculated?",
+    "a": "Pricing depends on distance, diesel price, tolls, load weight/volume, truck type, and lane demand. We estimate fuel using average km/l and add tolls and operating costs, then apply a margin."
+  },
+  {
+    "q": "What truck capacity should I choose?",
+    "a": "Common options: 14–20T rigid trucks, 25–30T multi-axle, and 32–35T trailers. For fragile/volumetric goods, use volumetric weight. Share load (tons) and dimensions for the best match."
+  },
+  {
+    "q": "Do you offer part truck load (PTL) and full truck load (FTL)?",
+    "a": "Yes, we support both FTL (dedicated vehicle) and PTL (shared capacity). FTL is faster and direct; PTL optimizes cost for smaller consignments with hub-and-spoke routes."
+  },
+  {
+    "q": "How to get a quote?",
+    "a": "Share pickup city, dropoff city, and load in tons. We auto-calculate route distance and provide an instant price and ETA."
+  },
+  {
+    "q": "What affects delivery time (ETA)?",
+    "a": "Distance, route topology, traffic windows, state border checks, and driver rest cycles. We estimate ETA from average highway speeds and add a congestion factor."
+  },
+  {
+    "q": "Is my shipment insured?",
+    "a": "Transit insurance is recommended. We can help arrange coverage as per declared value. Terms and deductibles vary by insurer and commodity class."
+  },
+  {
+    "q": "Can I track my shipment?",
+    "a": "Active trips are tracked; we provide status updates. For GPS-enabled trucks, we surface live location during transit."
+  },
+  {
+    "q": "How do I place a booking?",
+    "a": "Use the Booking portal to enter customer name, pickup, dropoff, and load (tons). Review the AI quote and submit. Our ops team assigns a driver and vehicle."
+  }
+]

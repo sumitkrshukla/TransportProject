@@ -1,0 +1,10 @@
+BookingID,Date,Customer,Phone,Email,Pickup,Dropoff,LoadTons,DistanceKm,QuoteINR,PredictedTimeHrs,Status,DriverId,TruckId,AssignedAt,CompletedAt
+B005,11-11-2025,sdvsd,7.58347E+13,sumitkrshukla99@gmail.com,Kolkata,Durgapur,2,193,8146,4,Rejected,,,,
+
+B001,2025-11-11T13:32:12.880Z,,,,,,,,,,Rejected,D002,T003,2025-11-11T17:25:56.478Z,2025-11-11T17:34:48.611Z
+B002,2025-11-11T17:25:47.382Z,,,,,,,,,,Completed,,,,2025-11-20T19:21:36.776Z,18/11/2025,sdvsd,75834738758934,sumitkrshukla99@gmail.com,Kolkata,Durgapur,1,193,8087,4,Pending Assignment,,,,
+B005,2025-11-22,sumit,8637088429,sumitkrshukla99@gmail.com,Kolkata,Durgapur,2,193,8146,4,Rejected,,,,
+B006,2025-11-22,sumit,8637088429,sumitkrshukla99@gmail.com,Kolkata,Durgapur,10,193,8616,4,Rejected,,,,
+B007,2025-11-22,sumit,8637088429,sumitkrshukla99@gmail.com,Kolkata,Durgapur,10,193,9895,4,Completed,D001,T001,2025-11-20T19:22:44.672Z,2025-11-20T19:33:54.183Z
+
+B004,2025-11-20T19:31:43.797Z,,,,,,,,,,Rejected,,,,
